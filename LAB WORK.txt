@@ -47,7 +47,7 @@ gcloud compute instances create vm2 --machine-type=n1-standard-1 --zone=us-east1
 
 
 
-
+I CAN MAKE CHANGES AS MUCH AS I WANT USING SOFT WRAP AT THE TOP RIGHT CORNER
 
 
 
